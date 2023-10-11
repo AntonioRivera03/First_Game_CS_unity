@@ -4,7 +4,7 @@
 <h1>Examples</h1>
 
 <p>The point of the game is to weave in and out of rocks(circles) flying at you to try and reach a high level/score. Simple enough. <br>This was my first game that I spent around an hour and a half on to create.
-Also my first time using C#, however, my knowledge in Java made it so that I had to look up maybe three things about the language to write in it which is great.
+Also my first time using C# and Unity, however, my knowledge in Java made it so that I had to look up maybe three things about the language to write in it which is great.
 Some things I didnt add which I will add when I come back to this are</p>
 <li>Power ups</li>
 <li>Restart game</li>
